@@ -1,0 +1,38 @@
+{
+    "name": "ai-crypto-trader-frontend",
+    "version": "1.0.0",
+    "description": "Frontend for AI Crypto Trader",
+    "main": "src/index.tsx",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "dependencies": {
+        "@types/axios": "^0.9.36",
+        "axios": "^1.7.9",
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0",
+        "react-router-dom": "^6.28.0",
+        "react-scripts": "5.0.1",
+        "recharts": "^2.15.0",
+        "typescript": "^4.5.0"
+    },
+    "devDependencies": {
+        "@types/react": "^18.0.0",
+        "@types/react-dom": "^18.0.0"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}

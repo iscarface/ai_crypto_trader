@@ -1,0 +1,19 @@
+[tool.black]
+line-length = 88
+target-version = ['py311']  # Adjust Python version as needed
+include = '\.pyi?$'
+exclude = '''
+/(
+    \.git
+    | \.hg
+    | \.mypy_cache
+    | \.tox
+    | \.venv
+    | _build
+    | __pycache__
+    | buck-out
+    | build
+    | dist
+    | migrations/.*
+)/
+'''

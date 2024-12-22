@@ -1,0 +1,14 @@
+ccxt==4.0.47
+pandas==2.0.3
+numpy==1.24.4
+sqlalchemy==2.0.20
+alembic==1.11.1
+fastapi==0.103.0
+uvicorn==0.23.1
+psycopg2==2.9.10
+python-dotenv==1.0.0
+pydantic==2.10.3
+celery==5.4.0
+redis==5.2.1
+python-binance==1.0.25
+black==24.10.0
