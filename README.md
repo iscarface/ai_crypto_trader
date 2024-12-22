@@ -12,3 +12,5 @@ AI-powered cryptocurrency trading bot using Python, FastAPI, Celery, and Binance
 ## Requirements
 - Python 3.11+
 - Docker & Docker Compose
+
+![2024-12-22_14-26](https://github.com/user-attachments/assets/8d4b473c-abe4-40b7-8911-a75045bad6e5)
